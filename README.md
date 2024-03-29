@@ -1,8 +1,8 @@
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-The copyright belong to <a href="https://www.youtube.com/watch?v=asMSo4DLq6s&t=2767s&ab_channel=CodeWithNomi">#CodeWithNomi</a> channel 
-
+<!--The copyright belong to <a href="https://www.youtube.com/watch?v=asMSo4DLq6s&t=2767s&ab_channel=CodeWithNomi">#CodeWithNomi</a> channel 
+-->
 
 <!-- PROJECT LOGO -->
 <br />
